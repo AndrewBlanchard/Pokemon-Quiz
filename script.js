@@ -15,7 +15,7 @@ const scoreDiv = document.getElementById("scoreContainer");
 let questions = [
     {
         question: "Which Pokemon is a starter from the Johto region?",
-        imgSrc: "Assets/PNGs/Cyndaquil_Shadow.png",
+        imgSrc: "PNGs/Cyndaquil_Shadow.png",
         choiceA: "Turtwig",
         choiceB: "Charmander",
         choiceC: "Cyndaquil",
@@ -24,7 +24,7 @@ let questions = [
     },
     {
         question: "What is the evolved form of Eevee that was introduced in Generation 2?",
-        imgSrc: "Assets/PNGs/Eevee.png",
+        imgSrc: "PNGs/Eevee.png",
         choiceA: "Jolteon",
         choiceB: "Espeon",
         choiceC: "Vaporeon",
@@ -33,7 +33,7 @@ let questions = [
     },
     {
         question: "Which Pokemon evolves into Steelix when traded while holding a Metal Coat?",
-        imgSrc: "Assets/PNGs/Steelix.png",
+        imgSrc: "PNGs/Steelix.png",
         choiceA: "Onix",
         choiceB: "Scyther",
         choiceC: "Sneasel",
@@ -42,7 +42,7 @@ let questions = [
     },
     {
         question: "Which electric type move is known for its ability to paralyze the target?",
-        imgSrc: "Assets/PNGs/Electric_Type_Icon.png",
+        imgSrc: "PNGs/Electric_Type_Icon.png",
         choiceA: "Thunderbolt",
         choiceB: "Thunder Wave",
         choiceC: "Thunder Punch",
@@ -51,7 +51,7 @@ let questions = [
     },
     {
         question: "Which Legendary Pokemon is known as the 'Master' of the Legenday Birds: Articuno, Zapdos, and Moltres? ",
-        imgSrc: "Assets/PNGs/Legendary_Birds.png",
+        imgSrc: "PNGs/Legendary_Birds.png",
         choiceA: "Ho-Oh",
         choiceB: "Mewtwo",
         choiceC: "Lugia",
@@ -193,11 +193,11 @@ function scoreRender() {
     const scorePerCent = Math.round(100 * score / questions.length);
 
     // choose the image based on the scorePerCent
-    let img = (scorePerCent >= 80) ? "Assets/PNGs/80_Correct.png" :
-        (scorePerCent >= 60) ? "Assets/PNGs/60_Correct.png" :
-            (scorePerCent >= 40) ? "Assets/PNGs/40_Correct.png" :
-                (scorePerCent >= 20) ? "Assets/PNGs/20_Correct.png" :
-                    "Assets/PNGs/0_Correct.png";
+    let img = (scorePerCent >= 80) ? "PNGs/80_Correct.png" :
+        (scorePerCent >= 60) ? "PNGs/60_Correct.png" :
+            (scorePerCent >= 40) ? "PNGs/40_Correct.png" :
+                (scorePerCent >= 20) ? "PNGs/20_Correct.png" :
+                    "PNGs/0_Correct.png";
 
     scoreDiv.innerHTML = "<img src=" + img + ">";
     scoreDiv.innerHTML += "<p>" + scorePerCent + "%</p>";
