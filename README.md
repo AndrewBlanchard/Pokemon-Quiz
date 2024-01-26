@@ -30,12 +30,17 @@ JavaScript Code:
 <img alt="Screenshot of the Leaderboard function of JavaScript code" src= https://github.com/AndrewBlanchard/Week-4-Challenge-Quiz/blob/main/Screenshots/JavaScript%20Scoreboard%20and%20Leaderboard.png>
 
 ## Sources
-Used a few different sources for help with the creation of the quiz: https://www.geeksforgeeks.org/create-a-quiz-app-with-timer-using-html-css-and-javascript/ ,
+Used a few different sources for help with the creation of the quiz:
+https://www.geeksforgeeks.org/create-a-quiz-app-with-timer-using-html-css-and-javascript/ ,
 https://www.codingnepalweb.com/quiz-app-with-timer-javascript/ ,
 https://www.youtube.com/watch?v=xZXW5SnCiWI&
-Quiz Timer: https://stackoverflow.com/questions/44314897/javascript-timer-for-a-quiz
-Scoreboard Help: https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Track_the_score_and_win , 
+
+Quiz Timer: 
+https://stackoverflow.com/questions/44314897/javascript-timer-for-a-quiz
+Scoreboard Help: 
+https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Track_the_score_and_win , 
 https://www.youtube.com/watch?v=jfOv18lCMmw
+
 Chat GPT for a few debugging instances with my JavaScript 
 
 ## License:
