@@ -17,11 +17,16 @@ Results and Leaderboard
 <img alt="Resluts Page" src=https://github.com/AndrewBlanchard/Week-4-Challenge-Quiz/blob/main/Screenshots/Pokemon%20Quiz%20Leaderboard.png>
 <img alt="Resluts Page" src=https://github.com/AndrewBlanchard/Week-4-Challenge-Quiz/blob/main/Screenshots/Pokemon%20Quiz%20Leaderboard%202.png>
 
-HTML Code
+HTML Code:
+
 <img alt="Screenshot of HTML code" src= https://github.com/AndrewBlanchard/Week-4-Challenge-Quiz/blob/main/Screenshots/HTML%20Code.png>
-CSS Code
+
+CSS Code:
+
 <img alt="Screenshot of part of the CSS code" src= https://github.com/AndrewBlanchard/Week-4-Challenge-Quiz/blob/main/Screenshots/Some%20CSS%20Code.png>
-JavaScript Code
+
+JavaScript Code:
+
 <img alt="Screenshot of the Leaderboard function of JavaScript code" src= https://github.com/AndrewBlanchard/Week-4-Challenge-Quiz/blob/main/Screenshots/JavaScript%20Scoreboard%20and%20Leaderboard.png>
 
 ## Sources
