@@ -1,6 +1,6 @@
-# Andrew Blanchard Week 4 Challenge
+# Andrew Blanchard Pokemon Quiz
 
-Created a Pokemon quiz consiting of 5 multiple choice questions that the user has 60 seconds to complete. 
+Created a Pokemon quiz consisting of 5 multiple choice questions that the user has 60 seconds to complete. 
 Pokemon Quiz URL: https://andrewblanchard.github.io/Week-4-Challenge-Quiz/
 
 ## Usage
